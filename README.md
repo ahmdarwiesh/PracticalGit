@@ -1,0 +1,2 @@
+# PracticalGit
+For Git training
